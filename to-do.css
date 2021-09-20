@@ -9,6 +9,10 @@ body{
     background-color: #B1E693;
     font-weight: 100;
 }
+input{
+    display:flex;
+    width:35%;
+}
 #Heading{
     margin-left:32px;
     margin-top:15px ;
