@@ -1,0 +1,41 @@
+body{
+    background-color: #FFEF78;
+    font-family: 'Koh Santepheap',cursive;
+}
+.container-md{
+    margin-top: 100px;
+    width: 50%;
+    border: 2px solid #b44747;
+    background-color: #B1E693;
+    font-weight: 100;
+}
+#Heading{
+    margin-left:32px;
+    margin-top:15px ;
+    font-weight: 100;
+    font-size: 2em;
+    text-align: center;
+}
+#deletbtn{
+    text-align: center;
+}
+#li2{
+    margin: 0px 0px 2px;
+}
+#lister{
+    margin-left: 32px;
+    font-weight: 100;
+}
+#endsec{
+    margin-left: 32px;
+    margin-bottom: 15px;
+}
+#inputs{
+    margin: 10px 0px 2px;
+}
+.btn{
+    padding: .275rem .75rem;
+}
+#clean{
+    margin-top: 10px;
+}
