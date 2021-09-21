@@ -1,11 +1,11 @@
 body{
-    background-color: #FFEF78;
+    background-color: #D4B499;
     font-family: 'Koh Santepheap',cursive;
 }
 .container-md{
     margin-top: 100px;
     width: 50%;
-    border: 2px solid #b44747;
+    border: 3px solid #b44747;
     background-color: #B1E693;
     font-weight: 100;
 }
