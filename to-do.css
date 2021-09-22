@@ -1,0 +1,51 @@
+
+html{
+    background-color: aquamarine;
+}
+.input{
+    width: 50%;
+}
+.card-footer{
+    text-align: center;
+    display:block;
+}
+.card-header-title{
+    text-align: center;
+    display: block;
+}
+.button.is-danger{
+    margin: 6px 0px 6px;
+}
+.card-content{
+    padding-bottom: 0;
+}
+#contain{
+    margin: 0px 0px 10px 30px;
+}
+.content h4{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#endon{
+    text-align: center;
+}
+#Heading{
+    font-weight: 100;
+    font-size: 2em;
+    text-align: center;
+}
+#deletbtn{
+    text-align: center;
+}
+#li2{
+    margin: 0px 0px 2px;
+}
+#lister{
+    font-weight: 150;
+}
+#endsec{
+    margin-bottom: 15px;
+}
+#inputs{
+    margin: 10px 0px 2px;
+}
